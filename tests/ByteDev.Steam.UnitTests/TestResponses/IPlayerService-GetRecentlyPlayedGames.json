@@ -1,0 +1,18 @@
+{
+  "response": {
+    "total_count": 1,
+    "games": [
+      {
+        "appid": 1029690,
+        "name": "Sniper Elite 5",
+        "playtime_2weeks": 1000,
+        "playtime_forever": 2284,
+        "img_icon_url": "00bce3b25aed4dfd96e864e03dd315448dcb834b",
+        "playtime_windows_forever": 2284,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0
+      }
+    ]
+  }
+}

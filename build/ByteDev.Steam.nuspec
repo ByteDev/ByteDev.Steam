@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>ByteDev.Steam</id>
+    <title>ByteDev.Steam</title>
+    <version>0.0.1</version>
+    <authors>Paul Stanley</authors>
+    <owners>Paul Stanley</owners>
+    <copyright>Copyright 2025</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SDK for communicating with Steam Web APIs.</description>
+    <tags>steam valve sdk api client game games gaming</tags>
+    <projectUrl>https://github.com/ByteDev/ByteDev.Steam</projectUrl>
+    <icon>images\icon.png</icon>
+    <license type="file">LICENSE</license>
+    <releaseNotes>Refer to https://github.com/ByteDev/ByteDev.Steam/blob/master/docs/RELEASE-NOTES.md on GitHub.</releaseNotes>
+    <readme>README.md</readme>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="ByteDev.Exceptions" version="2.3.0" />
+        <dependency id="ByteDev.ResourceIdentifier" version="2.3.0" />
+        <dependency id="System.Text.Json" version="9.0.5" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\src\ByteDev.Steam\bin\Release\net6.0\ByteDev.Steam.dll" target="lib\net6.0" />
+    <file src="..\src\ByteDev.Steam\bin\Release\net6.0\ByteDev.Steam.xml" target="lib\net6.0" />
+    <file src="..\images\icon.png" target="images\" />
+    <file src="..\LICENSE*" target="" />
+    <file src="..\README.md" target="" />
+  </files>
+</package>

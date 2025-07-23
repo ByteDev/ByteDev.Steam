@@ -1,0 +1,22 @@
+﻿{
+	"applist": {
+		"apps": [
+			{
+				"appid": 7,
+				"name": "Steam Client"
+			},
+			{
+				"appid": 10,
+				"name": "Counter-Strike"
+			},
+			{
+				"appid": 11,
+				"name": "COUNTER-STRIKE 2"
+			},
+			{
+				"appid": 12,
+				"name": "counter-strike 3"
+			}
+		]
+	}
+}

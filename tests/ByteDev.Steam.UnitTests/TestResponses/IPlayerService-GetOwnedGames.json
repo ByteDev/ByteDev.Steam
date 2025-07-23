@@ -1,0 +1,41 @@
+{
+	"response": {
+		"game_count": 2,
+		"games": [
+			{
+				"appid": 1164940,
+				"name": "Trepang2",
+				"playtime_forever": 576,
+				"img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
+				"has_community_visible_stats": true,
+				"playtime_windows_forever": 576,
+				"playtime_mac_forever": 0,
+				"playtime_linux_forever": 0,
+				"playtime_deck_forever": 0,
+				"rtime_last_played": 1725537611,
+				"content_descriptorids": [
+					2,
+					5
+				],
+				"playtime_disconnected": 0
+			},
+			{
+				"appid": 1659040,
+				"name": "HITMAN World of Assassination",
+				"playtime_forever": 0,
+				"img_icon_url": "552be1d38866afd1c33f682323d325130e7d0ce6",
+				"has_community_visible_stats": true,
+				"playtime_windows_forever": 0,
+				"playtime_mac_forever": 0,
+				"playtime_linux_forever": 0,
+				"playtime_deck_forever": 0,
+				"rtime_last_played": 0,
+				"content_descriptorids": [
+					2,
+					5
+				],
+				"playtime_disconnected": 0
+			}
+		]
+	}
+}

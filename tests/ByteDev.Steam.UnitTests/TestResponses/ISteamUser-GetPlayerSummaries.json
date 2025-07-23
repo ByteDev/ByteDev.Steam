@@ -1,0 +1,39 @@
+﻿{
+  "response": {
+    "players": [
+      {
+        "steamid": "100",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "supernashwan",
+        "profileurl": "https://steamcommunity.com/id/nashwan/",
+        "avatar": "https://avatars.steamstatic.com/71445b11e94164a1c057e36e4dcfca848487ad75.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/71445b11e94164a1c057e36e4dcfca848487ad75_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/71445b11e94164a1c057e36e4dcfca848487ad75_full.jpg",
+        "avatarhash": "71445b11e94164a1c057e36e4dcfca848487ad75",
+        "lastlogoff": 1750832474,
+        "personastate": 0,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1096800558,
+        "personastateflags": 0,
+        "loccountrycode": "SG"
+      },
+      {
+        "steamid": "101",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Headrush",
+        "profileurl": "https://steamcommunity.com/profiles/76561197962662314/",
+        "avatar": "https://avatars.steamstatic.com/379ff26503dadbd84b5506cba0020d9167014af6.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/379ff26503dadbd84b5506cba0020d9167014af6_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/379ff26503dadbd84b5506cba0020d9167014af6_full.jpg",
+        "avatarhash": "379ff26503dadbd84b5506cba0020d9167014af6",
+        "lastlogoff": 1661345666,
+        "personastate": 0,
+        "primaryclanid": "103582791433430100",
+        "timecreated": 1068488518,
+        "personastateflags": 0
+      }
+    ]
+  }
+}
