@@ -9,7 +9,7 @@ using ByteDev.Steam.Contract.Responses;
 
 namespace ByteDev.Steam;
 
-public class SteamApiClient : IDisposable
+public class SteamApiClient : ISteamApiClient
 {
     private readonly HttpClient _httpClient;
     private readonly SteamApiClientConfig _config;
