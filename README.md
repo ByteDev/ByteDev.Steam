@@ -50,7 +50,7 @@ var config = new SteamApiClientConfig
 
 ISteamApiClient client = new SteamApiClient(_httpClient, config);
 
-var response = await CreateSut().GetAllAppsAsync();
+var response = await client.GetAllAppsAsync();
 ```
 
 ### `SteamApiClient` - Methods
